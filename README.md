@@ -13,3 +13,4 @@
 * 4. Update/Edit Flight     PUT/flight/:id
 * 5. Delete Flight          DELETE/flight/:id
 
+# Pls I will like you to check this out i created this repo without using the cloned one sice you said we can also do that  let me know what you think about it [here](https://github.com/Tazmah/flight-api-2)
